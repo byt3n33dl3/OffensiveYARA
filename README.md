@@ -23,8 +23,13 @@ To ensure the quality of our rules, we continuously and extensively test them in
 
 ## Prerequisites
 To successfully run the entire YARA rule set, you must have:
-* YARA version >= 3.2.0
+* YARA version :: 3.2.0
 * PE and ELF modules enabled
+
+contributors of this OffensiveYARA:
+
+[![](https://avatars.githubusercontent.com/u/1922788?s=50&v=4)](https://github.com/tpericin)
+[![](https://avatars.githubusercontent.com/u/2851492?s=50&v=4)](https://github.com/Neo23x0)
 
 ## Originally
 - [reversinglabs](https://github.com/reversinglabs/reversinglabs-yara-rules)
