@@ -30,6 +30,8 @@ contributors of this OffensiveYARA:
 
 [![](https://avatars.githubusercontent.com/u/1922788?s=50&v=4)](https://github.com/tpericin)
 [![](https://avatars.githubusercontent.com/u/2851492?s=50&v=4)](https://github.com/Neo23x0)
+[![](https://avatars.githubusercontent.com/u/182937?s=50&v=4)](https://github.com/plusvic)
+[![](https://avatars.githubusercontent.com/u/26137846?s=50&v=4)](https://github.com/xbabka01)
 
 ## Originally
 - [reversinglabs](https://github.com/reversinglabs/reversinglabs-yara-rules)
